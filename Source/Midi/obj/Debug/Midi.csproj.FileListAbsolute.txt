@@ -1,0 +1,10 @@
+c:\users\ксюша\documents\visual studio 2013\Projects\Midi\Midi\obj\Debug\Midi.csprojResolveAssemblyReference.cache
+c:\users\ксюша\documents\visual studio 2013\Projects\Midi\Midi\obj\Debug\Midi.csproj.GenerateResource.Cache
+c:\users\ксюша\documents\visual studio 2013\Projects\Midi\Midi\bin\Debug\Sanford.Multimedia.Midi.dll
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\bin\Debug\Pattern.exe.config
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\obj\Debug\MidiPattern.Form1.resources
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\obj\Debug\MidiPattern.Properties.Resources.resources
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\bin\Debug\Pattern.exe
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\bin\Debug\Pattern.pdb
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\obj\Debug\Pattern.exe
+C:\Users\Ксюша\Documents\Visual Studio 2013\Projects\Midi\Midi\obj\Debug\Pattern.pdb
